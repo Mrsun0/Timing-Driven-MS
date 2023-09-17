@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -fPIC  -shared -Wl,-soname,libeval.so -o libeval.so CMakeFiles/eval.dir/eval.c.o  ../geosteiner/.libs/libgeosteiner.a ../geosteiner/lp_solve_2.3/libLPS.a 

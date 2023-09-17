@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dbcloud/sgw/RSMT/algorithms/eval.c
+eval.h
+/home/dbcloud/sgw/RSMT/algorithms/eval.h
+
+/home/dbcloud/sgw/RSMT/algorithms/eval.h
+math.h
+-
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+geosteiner/geosteiner.h
+/home/dbcloud/sgw/RSMT/algorithms/geosteiner/geosteiner.h
+
+/home/dbcloud/sgw/RSMT/algorithms/geosteiner/geosteiner.h
+stdio.h
+-
+stddef.h
+-
+
