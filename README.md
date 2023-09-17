@@ -8,7 +8,7 @@ This project is a simplified MindSpore version of the code for the 2023 ICCAD pa
 
 
 
-![image-20230917164118708](https://img2023.cnblogs.com/blog/2505287/202309/2505287-20230917164121659-2068134272.png)
+![image-20230917164118708](images/model.png)
 
 More details see the paper.
 
